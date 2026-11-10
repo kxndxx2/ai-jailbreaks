@@ -67,37 +67,5 @@ jailbreak-archive/
 | ❌ | **Patched** | Mitigated by provider updates or system prompt patches. |
 | 🔒 | **Restricted** | High-impact vulnerability; withheld pending disclosure/remediation. |
 
----
-
-## Support AIwolfie
-
-If you find this research archive useful or want to support ongoing jailbreak research, model evaluations, and updates:
-
-- ☕ **Buy Me a Coffee:** [Support AIwolfie on Gumroad](https://aiwolfie.gumroad.com/coffee)
-- 💳 **PayPal:** [paypal.me/AIwolfie](https://paypal.me/AIwolfie)
-
----
-
-## Contributing
-
-Contributors are welcome! If you are adding a new prompt technique, please review [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-> **Note for Contributors:** Whenever you add a prompt entry, you must update:
-> 1. [README.md](./README.md) (update entry counts / structure tree).
-> 2. [CREDITS.md](./CREDITS.md) (add your handle and details to the contributors list).
-
----
-
-## Disclaimer
-
-> **IMPORTANT**: This repository is maintained strictly for educational, research, and defensive analysis purposes.
-> - Testing must only be conducted against systems you own or have explicit authorization to evaluate.
-> - Content is provided "as is" without warranty. Users assume full responsibility for compliance with model provider Terms of Service and applicable legal regulations.
-
----
-
-<div align="center">
-
-[Contributing](./CONTRIBUTING.md) · [Credits](./CREDITS.md) · [License](./LICENSE) · [☕ Support AIwolfie](https://aiwolfie.gumroad.com/coffee)
 
 </div>
